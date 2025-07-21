@@ -1,0 +1,5 @@
+john@example.com,developer
+sonam.soni@pw.live,SME
+extra,content
+admin@gmail.com,admin
+support,team@sales.com
