@@ -1,0 +1,10 @@
+2025-07-29 15:45:55,331 - DEBUG - Debug info
+2025-07-29 15:45:55,331 - INFO - Processing started
+2025-07-29 15:45:55,331 - WARNING - Something is wrong
+2025-07-29 15:45:55,331 - ERROR - Data process failed
+2025-07-29 15:45:55,331 - CRITICAL - System Crash!
+2025-07-29 15:46:09,399 - DEBUG - Debug info
+2025-07-29 15:46:09,399 - INFO - Processing started
+2025-07-29 15:46:09,400 - WARNING - Something is wrong
+2025-07-29 15:46:09,400 - ERROR - Data process failed
+2025-07-29 15:46:09,400 - CRITICAL - System Crash!

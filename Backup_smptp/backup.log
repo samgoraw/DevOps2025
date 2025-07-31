@@ -1,0 +1,8 @@
+2025-07-29 16:08:17,559 - INFO - Backup createdbackups/backup_29-07-2025_16-08-17.zip
+2025-07-29 16:08:49,317 - INFO - Backup createdbackups/backup_29-07-2025_16-08-49.zip
+2025-07-29 16:08:54,214 - INFO - Backup createdbackups/backup_29-07-2025_16-08-54.zip
+2025-07-29 16:08:56,382 - INFO - Backup createdbackups/backup_29-07-2025_16-08-56.zip
+2025-07-29 16:09:55,651 - ERROR - Backup failed:[WinError 2] The system cannot find the file specified: 'files111'
+2025-07-30 14:41:48,314 - ERROR - Backup failed:[WinError 2] The system cannot find the file specified: 'files111'
+2025-07-30 14:44:07,195 - ERROR - Backup failed:[WinError 2] The system cannot find the file specified: 'files111'
+2025-07-30 14:45:41,607 - INFO - Backup created backups/backup_30-07-2025_14-45-41.zip
